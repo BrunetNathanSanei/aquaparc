@@ -1,0 +1,29 @@
+/*.wabs-faq-searchbar {*/
+/*    clear: both;*/
+/*}*/
+/*.wabs-faq-searchbar.input-size-small input {*/
+/*    width: 20%;*/
+/*}*/
+/*.wabs-faq-searchbar.input-size-medium input {*/
+/*    width: 50%;*/
+/*}*/
+/*.wabs-faq-searchbar.input-size-big input {*/
+/*    width: 100%;*/
+/*}*/
+
+/*.wabs-faq-searchbar.alignment-left input {*/
+/*    float: left;*/
+/*}*/
+/*.wabs-faq-searchbar.alignment-center input {*/
+/*    margin: 0 auto;*/
+/*}*/
+/*.wabs-faq-searchbar.alignment-right input {*/
+/*    float: right;*/
+/*}*/
+
+/*.wabs-faq-searchbar .search-icon {*/
+/*    margin-left: -50px;*/
+/*    position: relative;*/
+/*    z-index: 2;*/
+/*    width: 30px;*/
+/*}*/

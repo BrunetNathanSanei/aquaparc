@@ -1,0 +1,34 @@
+.tx-indexedsearch-autocomplete {
+	background: #F5F5F5;
+	width: 200px; /* This value is set in the javascript code, to match the width of the search box */
+	cursor: pointer;
+	position: absolute;
+	left: 0;
+	font-size: 90%;
+	z-index: 101;
+}
+.tx-indexedsearch-autocomplete ul {
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	border: 1px solid #AAAAAA;
+}
+.tx-indexedsearch-autocomplete ul li.even {
+	background: #E5E5E5;
+}
+.tx-indexedsearch-autocomplete ul li.odd {
+	background: #FFFFFF;
+}
+.tx-indexedsearch-autocomplete li {
+	padding: 2px 5px;
+}
+.tx-indexedsearch-autocomplete a {
+	width: 100%;
+}
+.tx-indexedsearch-autocomplete .autocomplete_searching {
+	background:#FFFFFF url('../Images/Indicator.gif') no-repeat right center;
+}
+.tx-indexedsearch-autocomplete .highlighted {
+	background-color: #A7CDF0 !important;
+}

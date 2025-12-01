@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g id="Gruppe_511" data-name="Gruppe 511" transform="translate(-0.25)">
+    <circle id="Ellipse_71" data-name="Ellipse 71" cx="39" cy="39" r="39" transform="translate(0.25)" fill="#11a3a7"/>
+    <g id="Gruppe_513" data-name="Gruppe 513" transform="translate(20.367 20.366)">
+      <g id="Gruppe_512" data-name="Gruppe 512">
+        <path id="Pfad_297" data-name="Pfad 297" d="M28.983,0H8.617A8.632,8.632,0,0,0,0,8.617V28.983A8.632,8.632,0,0,0,8.617,37.6H28.983A8.632,8.632,0,0,0,37.6,28.983V8.617A8.632,8.632,0,0,0,28.983,0Zm2.35,25.067a6.267,6.267,0,0,1-6.267,6.267H12.533a6.267,6.267,0,0,1-6.267-6.267V12.533a6.267,6.267,0,0,1,6.267-6.267H25.067a6.267,6.267,0,0,1,6.267,6.267Z" fill="#fff"/>
+        <circle id="Ellipse_72" data-name="Ellipse 72" cx="6.267" cy="6.267" r="6.267" transform="translate(12.533 12.533)" fill="#fff"/>
+        <circle id="Ellipse_73" data-name="Ellipse 73" cx="1.567" cy="1.567" r="1.567" transform="translate(25.067 9.4)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
